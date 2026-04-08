@@ -20,7 +20,7 @@ GET /ebook/src/viewer/download.php?host=main&site=20250410_095137&no=1 HTTP/1.1
 application/pdf
 
 - 파일 크기는 얼마인가? 
-867700
+25433559
 
 - 파일 이름은 무엇인가?
 25_%EC%9A%A9%EC%9D%B8%EC%83%9D%ED%99%9C%EA%B0%80%EC%9D%B4%EB%93%9C%EB%B6%81_%EC%9B%B9%EC%9A%A9_0409.pdf
@@ -37,5 +37,3 @@ application/pdf
 <img width="982" height="518" alt="Image" src="https://github.com/user-attachments/assets/5466e4f6-aa6e-4fe7-aafe-dc32428c4af5" />
 4. 파일 복구
 <img width="914" height="912" alt="Image" src="https://github.com/user-attachments/assets/9381b779-cfef-475c-917f-2782f5feae09" />
-
--  복구 과정 화면을 캡처하여 첨부하시오.
